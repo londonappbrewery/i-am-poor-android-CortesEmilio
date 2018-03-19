@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">I Am Poor</string>
     <string name="text"> I AM POOR </string>
+    <string name= "image_description"> android:contentDescription </string>
 
 
 </resources>
